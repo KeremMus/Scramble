@@ -1,5 +1,5 @@
-# Guess-The-Flag
-A demo app to get familiar with SwiftUI.
+# Scramble
+A demo app to get familiar with SwiftUI. Player tries to find new words with the letters inside the provided word.
 
 ## Gameplay Images
 <p float="left">
